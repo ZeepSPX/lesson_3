@@ -1,0 +1,49 @@
+
+a{
+	color: orange;
+}
+
+.link-first{
+	color: rgb(198, 30, 30);
+}
+
+a.link-second{
+	color: palevioletred;
+}
+
+div.text-first p{
+	color: rebeccapurple;
+}
+
+#text_second{
+	color: rgb(117, 15, 92);
+}
+
+.samurai,
+.weapon {
+	color: rgb(72, 0, 255);
+}
+
+.busido > p{
+	color: hotpink;
+}
+
+.busido ~ p{
+	color: chocolate;
+}
+
+.future .future-low{
+	color: indigo;
+}
+
+.end{
+	color: saddlebrown;
+}
+
+.end + p{
+	color: olive;
+}
+
+
+
+
